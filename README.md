@@ -20,12 +20,22 @@ Canva's intended customers are mainly individuals who are creating marketing and
 
 Canva makes design and marketing more accessible. You no longer need a huge team of professional designers and writers to create effective, consistant, engaging material. 
 
-Canva has competitors that are integrating AI into design creation. One major competitor is Adobe Creative Cloud Express. Adobe is a company that has launched some of the biggest digital design platforms in history, such as Photoshop. Adobe CC Express is supposted to be a more accesible version of their software, which requires in depth training and experience to produce professional level material. 
-Someone with basic computer skills can visit the Canva site and get comparible results in minutes. Canva also has AI features that Adobe CC Express does not, such as  ‘Magic Switch’, which allows the user to seemlessly resize their design with one click.
+Canva has competitors that are also integrating AI into design creation. One major competitor is Adobe Creative Cloud Express. Adobe is a company that has launched some of the biggest digital design platforms in history, such as Photoshop and Illustrator. Adobe CC Express is meant to be a more accesible version of their software, which requires in depth training and experience to produce professional level material. Canva is still arguibly more accessible and easier to use than Adobe CC Express. Canva also has more robust AI features than Adobe CC Express. For example, Adobe does not have a feature comparible to Canva's 'Magic Switch' which allows the user to seamlessly resize their design with the click of a button. Canva is also more generous when it comes to how much you can use their AI tools. [^4]  
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Canva's "Magic Studio" AI feature, which assists users in creating designs by suggesting layouts, elements, and other design components, likely utilizes a combination of advanced technologies. While the specific details of Canva's proprietary technology stack aren't publicly disclosed, we can speculate on some of the technologies involved based on industry trends and known capabilities:
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Machine Learning (ML) and Artificial Intelligence (AI): Canva likely employs various machine learning algorithms and AI techniques to analyze user inputs, understand design preferences, and generate design suggestions. This could involve natural language processing (NLP) to interpret user descriptions or requests, image recognition to understand content, and generative algorithms to create design elements.
+
+* Image Processing and Computer Vision: Canva probably uses advanced image processing techniques and computer vision technology to analyze images uploaded by users and extract meaningful information. This could include object recognition, scene understanding, and semantic segmentation to identify elements within images and suggest relevant design elements.
+
+* Data Analytics: Canva collects extensive user data, including design preferences, usage patterns, and engagement metrics. Data analytics tools are likely used to analyze this data and derive insights that inform the development of AI-driven features like Magic Studio. This data-driven approach helps Canva understand user behavior and preferences, improving the accuracy and relevance of design suggestions.
+
+* Natural Language Processing (NLP): NLP technologies may be employed to analyze and understand text inputs from users, such as descriptions or keywords provided when requesting design assistance. NLP algorithms help Canva interpret user intent and generate relevant design suggestions based on the input provided.
+
+* Cloud Computing: Canva's AI-powered features likely leverage cloud computing resources to perform computationally intensive tasks such as image processing, machine learning model inference, and data analysis. Cloud-based infrastructure provides scalability and flexibility, allowing Canva to handle varying levels of user demand and continuously improve its AI capabilities.
+
+* User Interaction and Feedback Mechanisms: Canva may incorporate user interaction data and feedback mechanisms into its AI algorithms to improve the accuracy and relevance of design suggestions over time. By analyzing how users interact with suggested designs and incorporating feedback, Canva can refine its AI models to better meet user needs and preferences. design best practices are likely incorporated into the development process to ensure a seamless and enjoyable user experience. [^5]
+
 
 ## Landscape
 
@@ -56,4 +66,5 @@ Someone with basic computer skills can visit the Canva site and get comparible r
 [^1]: Source - https://en.wikipedia.org/wiki/Canva
 [^2]: Source - https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/
 [^3]: Source - https://www.businesswire.com/news/home/20221012005414/en Canva-Announces-Crossing-100-Million-Monthly-Active-Users-Following-Launch-of-Visual-Worksuite
-
+[^4] https://www.stylefactoryproductions.com/blog/adobe-express-vs-canva
+[^5] Canva's use of technology provided by ChatGPT
