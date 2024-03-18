@@ -2,27 +2,27 @@
 
 ## Overview and Origin
 
-This case study is on the design and visual communication platform, Canva. This company has recently come out with a suite of AI design features called Magic Studio. 
+This case study is on the design and visual communication platform, Canva. This company has recently come out with a suite of AI design features called 'Magic Studio'. 
 
-Canva, an Australian company, was founded in 2013 by three individuals:  [^1]
+Canva, an Australian company, was founded in 2013 by three individuals:  
 * Melanie Perkins
 * Cliff Obrecht
-* Cameron Adams
+* Cameron Adams [^1]
 
 The founders' vision for creating Canva was to "empower everyone to design anything, no matter their skills or experience". [^2]
-AI is now enabling them to expand their vision by making it easier than ever for someone to create designs with no experience at all. 
+AI is now enabling them to expand their vision by making it easier than ever for someone to create designs with little to no experience at all. 
 
 An easy to use interface, easy access to millions of stock images, templates, and ability to collaborate are some of the reasons this company has over 100 million people in 190 countries using its platform every month. [^3] 
 
 ## Business Activities
 
-Canva's intended customers are mainly individuals who are creating marketing and other profesional materials for their company. One of the key features this platform has is allowing users to create a brand profile, called a Brand Kit. The user is able to add guidelines for a "brand voice", characteristics they want to convey in company communications. Then using AI, they're able to apply the brand voice to any text or generate brand-friendly text based on prompts. 
+Canva's intended customers are mainly individuals who are creating marketing and other profesional materials for small businesses. One of their key features is allowing users to create a brand profile, called a 'Brand Kit'. The user is able to add guidelines for a "brand voice", characteristics they want to convey in company communications. Then using AI, they're able to apply the brand voice to text or generate brand-aligned text based on prompts. 
 
 Canva makes design and marketing more accessible. You no longer need a huge team of professional designers and writers to create effective, consistant, engaging material. 
 
-Canva has competitors that are also integrating AI into design creation. One major competitor is Adobe Creative Cloud Express. Adobe is a company that has launched some of the biggest digital design platforms in history, such as Photoshop and Illustrator. Adobe CC Express is meant to be a more accesible version of their software, which requires in depth training and experience to produce professional level material. Canva is still arguibly more accessible and easier to use than Adobe CC Express. Canva also has more robust AI features than Adobe CC Express. For example, Adobe does not have a feature comparible to Canva's 'Magic Switch' which allows the user to seamlessly resize their design with the click of a button. Canva is also more generous when it comes to how much you can use their AI tools. [^4]  
+Canva has competitors that are also integrating AI into design creation. One major competitor is Adobe Creative Cloud Express. Adobe is a company that has launched some of the biggest digital design platforms in history, such as Photoshop and Illustrator. Adobe CC Express is meant to be a more accesible version of their software, which requires in depth training and experience to produce professional level material. Ease of use is why Canva has a leg up on Adobe CC Express. Canva also has more robust AI features than Adobe CC Express. For example, Adobe does not have a feature comparible to Canva's 'Magic Switch' which allows the user to seamlessly resize their design with the click of a button. Canva is also more generous when it comes to how much you can use their AI tools. [^4]  
 
-Canva's "Magic Studio" AI feature, which assists users in creating designs by suggesting layouts, elements, and other design components, likely utilizes a combination of advanced technologies. While the specific details of Canva's proprietary technology stack aren't publicly disclosed, we can speculate on some of the technologies involved based on industry trends and known capabilities:
+Canva's "Magic Studio" AI features assists users in creating designs by suggesting layouts, elements, and other design components. It likely utilizes a combination of advanced technologies. While the specific details of Canva's proprietary technology stack aren't publicly disclosed, we can speculate on some of the technologies involved based on industry trends and known capabilities:
 
 * Machine Learning (ML) and Artificial Intelligence (AI): Canva likely employs various machine learning algorithms and AI techniques to analyze user inputs, understand design preferences, and generate design suggestions. This could involve natural language processing (NLP) to interpret user descriptions or requests, image recognition to understand content, and generative algorithms to create design elements.
 
@@ -36,14 +36,23 @@ Canva's "Magic Studio" AI feature, which assists users in creating designs by su
 
 * User Interaction and Feedback Mechanisms: Canva may incorporate user interaction data and feedback mechanisms into its AI algorithms to improve the accuracy and relevance of design suggestions over time. By analyzing how users interact with suggested designs and incorporating feedback, Canva can refine its AI models to better meet user needs and preferences. design best practices are likely incorporated into the development process to ensure a seamless and enjoyable user experience. [^5]
 
-
 ## Landscape
 
-* What field is the company in?
+The Canva platform is related to the field of graphic design, which has been around since the advent of printing.
 
-* What have been the major trends and innovations of this field over the last 5 10 years?
+Over the past 5 to 10 years, the field of graphic design has experienced significant evolution driven by technological advancements, changing consumer preferences, and emerging design trends. Some major trends and innovations during this period include:
 
-* What are the other major companies in this field?
+* Responsive Design: With the increasing prevalence of mobile devices, graphic designers have shifted towards creating designs that adapt to different screen sizes and resolutions. Responsive design ensures a consistent user experience across various devices, including smartphones, tablets, and desktops.
+
+* Motion Graphics and Animation: Motion graphics and animation have become integral parts of graphic design, adding interactivity and visual interest to digital content. Designers leverage tools such as Adobe After Effects and CSS animations to create dynamic visuals for websites, apps, and social media.
+
+* Data Visualization: As data becomes increasingly abundant, designers have focused on creating compelling data visualizations to communicate complex information effectively. Infographics, charts, and interactive data dashboards help users interpret data insights quickly and intuitively.
+
+* Augmented Reality (AR) and Virtual Reality (VR): AR and VR technologies have opened up new possibilities for immersive and interactive graphic design experiences. Designers explore innovative ways to integrate AR and VR elements into branding, advertising, and user interfaces to engage audiences in unique ways.
+
+* Artificial Intelligence (AI) in Design: AI technologies are increasingly being integrated into graphic design workflows to automate repetitive tasks, generate design variations, and provide intelligent design assistance. AI-powered tools like automated layout generation, image recognition, and predictive analytics streamline the design process and enhance creativity.
+
+These trends and innovations reflect the dynamic nature of the graphic design industry, driven by technological advancements, evolving consumer behaviors, and changing societal values. As technology continues to evolve, graphic designers will adapt and embrace new tools and techniques to create impactful visual experiences. [^6]
 
 ## Results
 
@@ -63,8 +72,10 @@ Canva's "Magic Studio" AI feature, which assists users in creating designs by su
 
 * Why are these technologies appropriate for your solution?
 
+References
 [^1]: Source - https://en.wikipedia.org/wiki/Canva
 [^2]: Source - https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/
 [^3]: Source - https://www.businesswire.com/news/home/20221012005414/en Canva-Announces-Crossing-100-Million-Monthly-Active-Users-Following-Launch-of-Visual-Worksuite
 [^4] https://www.stylefactoryproductions.com/blog/adobe-express-vs-canva
 [^5] Canva's use of technology provided by ChatGPT
+[^6] Recent graphic design trends generated from ChatGPT
