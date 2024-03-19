@@ -56,9 +56,33 @@ These trends and innovations reflect the dynamic nature of the graphic design in
 
 ## Results
 
-* What has been the business impact of this company so far?
+The business impact of Canva has been significant and far-reaching, influencing various aspects of the graphic design industry and beyond. Here are some key aspects of Canva's business impact:
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* Accessibility: Canva has democratized graphic design by providing a user-friendly platform accessible to individuals and businesses of all sizes. Its intuitive interface, extensive library of templates, and affordable pricing plans have made professional-quality design accessible to users who may not have had the resources or expertise to use traditional design software.
+
+* Cost Savings: Canva's subscription-based model offers a cost-effective alternative to traditional design software, which often requires expensive licenses or subscriptions. Businesses can save money on design expenses by using Canva for their marketing materials, presentations, and other design needs.
+
+* Time Efficiency: Canva enables users to create designs quickly and efficiently, saving time compared to traditional design methods. Its pre-designed templates, drag-and-drop interface, and built-in collaboration features streamline the design process, allowing users to create professional-quality designs with minimal effort.
+
+* Brand Consistency: Canva's Brand Kit feature allows businesses to maintain brand consistency across all their design assets. By centralizing brand colors, fonts, logos, and templates, businesses can ensure that their marketing materials adhere to brand guidelines, reinforcing brand identity and recognition.
+
+* Collaboration and Teamwork: Canva facilitates collaboration and teamwork among users, allowing teams to work together on design projects in real-time. Its cloud-based platform enables remote collaboration, making it easy for team members to share designs, provide feedback, and collaborate on projects regardless of their location.
+
+* Market Expansion: Canva has expanded the market for graphic design tools by targeting a broader audience beyond professional designers. Its user-friendly platform appeals to entrepreneurs, small businesses, educators, nonprofits, and individuals who need to create visual content for various purposes.
+
+* Ecosystem Growth: Canva has built an extensive ecosystem of integrations, partnerships, and extensions, expanding its functionality and reach. Integrations with platforms such as Google Drive, Dropbox, and Slack enhance workflow efficiency, while partnerships with stock photo providers and printing services offer users additional resources and capabilities.
+
+* Innovation and Disruption: Canva's innovative features, such as Magic Studio AI, demonstrate its commitment to pushing the boundaries of graphic design technology. By leveraging AI, machine learning, and other advanced technologies, Canva continues to disrupt the graphic design industry and shape its future.
+
+* Overall, Canva's business impact extends beyond graphic design, influencing how individuals and businesses create, collaborate, and communicate visually in the digital age. Its accessibility, affordability, and user-friendly approach have transformed the way people think about and approach graphic design, empowering them to unleash their creativity and express themselves visually. [^7]
+
+Some of the core metrics that online design platforms use to measure success are:
+* Number of active users
+* Range of active users
+* Revenue
+
+Canva is performing strongly in these areas. As of 2023, its community has reached a massive 150 million people. This number has grown significantly from 60 million in 2022. Since its launch, the platform has garnered users in more than 190 countries. In the year 2023, Canva's revenue run rate reached an impressive $1.7 billion. [^8] 
+
 
 * How is your company performing relative to competitors in the same field?
 
@@ -79,3 +103,5 @@ References
 [^4] https://www.stylefactoryproductions.com/blog/adobe-express-vs-canva
 [^5] Canva's use of technology provided by ChatGPT
 [^6] Recent graphic design trends generated from ChatGPT
+[^7] The business impact of Canva provideded by ChatGPT
+[^8] https://thesocialshepherd.com/blog/canva-statistics
