@@ -92,7 +92,8 @@ Canva was listed as the best free graphic design platform by techradar.com. [^10
 
 If I were working for Canva, I would advise them to develop more advanced video editing features. 
 Adobe Creative Cloud Express offers slightly more robust video editing features compared to Canva, such as the ability to trim and cut videos more precisely, add transitions, and manipulate video speed. On top of developing these basic features, they should develop a way to edit videos using AI. For example, the user would be able to edit the color of someone's hair in a video using only a text prompt.
-The reason I think this is a good idea is because OpenAI recently announced Sora, an AI text to video generation tool, which I believe will rise in popularity among creators. Canva already an integration with OpenAI's Dall-E, the AI text to image tool, therefore I see an integration with Sora as a likely next step. 
+
+The reason I think this is a good idea is because OpenAI recently announced Sora, an AI text to video generation tool, which I believe will rise in popularity among creators. Canva already has an integration with OpenAI's Dall-E, the AI text to image tool, therefore I see an integration with Sora as a likely next step. 
 This would expand Canva's user base to those who do video content creation and keep them at the forefront of the AI design tool space. 
 
 An AI video editor would leverage a combination of technologies to automate and enhance various aspects of the video editing process. Some key technologies that an AI video editor might use include:
