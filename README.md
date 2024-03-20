@@ -117,7 +117,7 @@ An AI video editor would leverage a combination of technologies to automate and 
 In conclusion, Canva has swiftly ascended to the pinnacle of the online design platform arena through its user-friendly interface and extensive feature set. Its commitment to innovation and harnessing the power of AI has propelled its success. If they continue on this trajectory, I have no doubt Canva will maintain its dominance in this space.
 
 
-List of References
+### List of References
 [^1]: Source - https://en.wikipedia.org/wiki/Canva
 [^2]: Source - https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/
 [^3]: Source - https://www.businesswire.com/news/home/20221012005414/enCanva-Announces-Crossing-100-Million-Monthly-Active-Users-Following-Launch-of-Visual-Worksuite
