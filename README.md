@@ -78,30 +78,53 @@ The business impact of Canva has been significant and far-reaching, influencing 
 
 Some of the core metrics that online design platforms use to measure success are:
 * Number of active users
-* Range of active users
 * Revenue
+
+![canva_revenue](canva-revenue.png)
 
 Canva is performing strongly in these areas. As of 2023, its community has reached a massive 150 million people. This number has grown significantly from 60 million in 2022. Since its launch, the platform has garnered users in more than 190 countries. In the year 2023, Canva's revenue run rate reached an impressive $1.7 billion. [^8] 
 
+Canva's focus on ease of use, a generous free plan, and its strong community make it a leader in the design tool space, especially for beginners and non-designers. However, for professionals with highly specialized needs or those requiring advanced features, some competitors might be a better fit. [^9]
+Canva was listed as the best free graphic design platform by techradar.com. [^10]
 
-* How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I were working for Canva, I would advise them to develop more advanced video editing features. 
+Adobe Creative Cloud Express offers slightly more robust video editing features compared to Canva, such as the ability to trim and cut videos more precisely, add transitions, and manipulate video speed. On top of developing these basic features, they should develop a way to edit videos using AI. For example, the user would be able to edit the color of someone's hair in a video using only a text prompt.
+The reason I think this is a good idea is because OpenAI recently announced Sora, an AI text to video generation tool, which I believe will rise in popularity among creators. Canva already an integration with OpenAI's Dall-E, the AI text to image tool, therefore I see an integration with Sora as a likely next step. 
+This would expand Canva's user base to those who do video content creation and keep them at the forefront of the AI design tool space. 
 
-* Why do you think that offering this product or service would benefit the company?
+An AI video editor would leverage a combination of technologies to automate and enhance various aspects of the video editing process. Some key technologies that an AI video editor might use include:
 
-* What technologies would this additional product or service utilize?
+* Machine Learning (ML) and Deep Learning: Machine learning algorithms, particularly deep learning models, can be trained on large datasets of video footage to recognize patterns, understand content, and generate insights. Deep learning techniques, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), are particularly useful for tasks like object detection, scene segmentation, and action recognition.
 
-* Why are these technologies appropriate for your solution?
+* Computer Vision: Computer vision technology enables AI video editors to analyze video content, identify objects, scenes, and people within videos, and extract meaningful information. Computer vision algorithms can be used for tasks like tracking objects, detecting faces, recognizing gestures, and analyzing motion.
 
-References
+* Natural Language Processing (NLP): NLP techniques can be used to analyze and understand textual inputs associated with video content, such as captions, transcripts, and metadata. NLP algorithms can help AI video editors generate accurate summaries, extract keywords, and categorize videos based on their content.
+
+* Speech Recognition and Processing: Speech recognition technology allows AI video editors to transcribe spoken dialogue and identify audio elements within videos. Speech processing algorithms can be used to enhance audio quality, remove background noise, and synchronize audio with video.
+
+* Generative Adversarial Networks (GANs): GANs are a type of deep learning model used for generating realistic content, such as images, videos, and audio. AI video editors can leverage GANs to generate synthetic video content, create visual effects, or enhance video quality.
+
+* Automated Editing Algorithms: AI algorithms can automate various aspects of the video editing process, such as scene segmentation, shot selection, clip trimming, and transition effects. These algorithms use machine learning techniques to learn from examples and make intelligent editing decisions.
+
+* Content Analysis and Recommendation Systems: AI video editors can analyze user preferences, viewing patterns, and engagement metrics to recommend personalized video content or editing suggestions. Recommendation systems use collaborative filtering, content-based filtering, and other techniques to match users with relevant videos and editing styles.
+
+* Cloud Computing and Parallel Processing: AI video editing tasks often require significant computational resources, such as processing large video files or training complex machine learning models. Cloud computing platforms and parallel processing techniques enable AI video editors to scale efficiently and handle computationally intensive tasks. [^11]
+
+In conclusion, Canva has swiftly ascended to the pinnacle of the online design platform arena through its user-friendly interface and extensive feature set. Its commitment to innovation and harnessing the power of AI has propelled its success. If they continue on this trajectory, I have no doubt Canva will maintain its dominance in this space.
+
+
+List of References
 [^1]: Source - https://en.wikipedia.org/wiki/Canva
 [^2]: Source - https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/
-[^3]: Source - https://www.businesswire.com/news/home/20221012005414/en Canva-Announces-Crossing-100-Million-Monthly-Active-Users-Following-Launch-of-Visual-Worksuite
-[^4] https://www.stylefactoryproductions.com/blog/adobe-express-vs-canva
-[^5] Canva's use of technology provided by ChatGPT
-[^6] Recent graphic design trends generated from ChatGPT
-[^7] The business impact of Canva provideded by ChatGPT
-[^8] https://thesocialshepherd.com/blog/canva-statistics
+[^3]: Source - https://www.businesswire.com/news/home/20221012005414/enCanva-Announces-Crossing-100-Million-Monthly-Active-Users-Following-Launch-of-Visual-Worksuite
+[^4]: Source - https://www.stylefactoryproductions.com/blog/adobe-express-vs-canva
+[^5]: Source - Canva's use of technology provided by OpenAI's ChatGPT 3.5
+[^6]: Source - Recent graphic design trends generated from OpenAI's ChatGPT 3.5
+[^7]: Source - The business impact of Canva provideded by OpenAI's ChatGPT 3.5
+[^8]: Source - https://thesocialshepherd.com/blog/canva-statistics
+[^9]: Source - Canva performance relative to competitors provided by Google's Gemini
+[^10]: Source - https://www.techradar.com/best/best-graphic-design-software
+[^11]: Source - AI video editor's use of technology provided by OpenAI's ChatGPT 3.5
